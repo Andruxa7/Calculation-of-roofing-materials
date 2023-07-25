@@ -5,3 +5,14 @@ This application will help to make a quick calculation of roofing materials and 
 After that, you can either return to the first screen by pressing the Home button and start a new calculation, or share the result of the calculation with someone, for example, by sending it by mail to a roofing company, or simply save it on your phone.
 
 **App screenshots:**
+
+<p align="left">
+<img src="https://github.com/Andruxa7/Calculation-of-roofing-materials/blob/main/images/Roof_1.png" width="200"/>
+<img src="https://github.com/Andruxa7/Calculation-of-roofing-materials/blob/main/images/Roof_2.png" width="200">
+<img src="https://github.com/Andruxa7/Calculation-of-roofing-materials/blob/main/images/Roof_3.png" width="200"/>
+<img src="https://github.com/Andruxa7/Calculation-of-roofing-materials/blob/main/images/Roof_4.png" width="200"/>
+<img src="https://github.com/Andruxa7/Calculation-of-roofing-materials/blob/main/images/Roof_5.png" width="200"/>
+<img src="https://github.com/Andruxa7/Calculation-of-roofing-materials/blob/main/images/Roof_6.png" width="200"/>
+</p>
+
+**Tech Used**
