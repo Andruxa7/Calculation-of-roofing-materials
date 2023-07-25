@@ -16,3 +16,9 @@ After that, you can either return to the first screen by pressing the Home butto
 </p>
 
 **Tech Used**
+- 🎨 The app designed with MVC
+- ❤️‍🩹 Use Auto Layout
+- 📊 UIKit
+- 🖼 UIComponents -> TableView, TableViewCell
+- 🗂️ FileManager
+- 💾 UIActivityViewController
